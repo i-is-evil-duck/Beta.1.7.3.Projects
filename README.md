@@ -17,10 +17,8 @@ All of these projects are built for **CraftBukkit Beta 1.7.3 servers** and have 
 
 ---
 
-Features may include:
-- Custom networking tweaks
-- Compatibility improvements
-- Modifications designed for legacy beta servers
+Features:
+- gravity toggle
 
 ---
 
